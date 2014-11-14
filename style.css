@@ -1,6 +1,10 @@
+body {
+  font-size: 16px;
+  background-color: #fff;
+}
+
 p {
   color: gray;
   font-size: 24px;
   font-weight: bold;
-  text-align: center;
 }
